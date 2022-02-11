@@ -1,0 +1,53 @@
+music = {
+	name = "bridalthemepiano"
+	file = "bridalthemepiano.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "cradleofthegalaxypiano"
+	file = "cradleofthegalaxypiano.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "creationandbeyondpiano"
+	file = "creationandbeyondpiano.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "darkskies"
+	file = "darkskies.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "distantnebulapiano"
+	file = "distantnebulapiano.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "eternalcitypiano"
+	file = "eternalcitypiano.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "fasterthanlightpiano"
+	file = "fasterthanlightpiano.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "sevensacramentspiano"
+	file = "sevensacramentspiano.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "snowiscomingpiano"
+	file = "snowiscomingpiano.ogg"
+	volume = 0.80
+}
