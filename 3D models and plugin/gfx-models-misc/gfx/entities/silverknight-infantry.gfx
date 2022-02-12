@@ -1,0 +1,32 @@
+objectTypes = {
+
+	pdxmesh = {
+		name = "molagbal_mesh"
+		file = "gfx/models/units/silverknight/skyrim/molagbal/molagbal.mesh"
+	}
+
+	pdxmesh = {
+		name = "ffmech_mesh"
+		file = "gfx/models/units/silverknight/codegeass/mech/ffmech.mesh"
+	}
+
+	pdxmesh = {
+		name = "glouchester_mesh"
+		file = "gfx/models/units/silverknight/codegeass/glouchester/glouchester.mesh"
+	}
+
+	pdxmesh = {
+		name = "trex_mesh"
+		file = "gfx/models/units/silverknight/jurassicpark/trex2.mesh"
+	}
+
+	pdxmesh = {
+		name = "flesh1_mesh"
+		file = "gfx/models/units/silverknight/stalker/flesh.mesh"
+	}
+
+	pdxmesh = {
+		name = "flesh2_mesh"
+		file = "gfx/models/units/silverknight/stalker/flesh2.mesh"
+	}
+}
