@@ -1,0 +1,125 @@
+{
+    "standard_previewer": {
+        "material": [
+            "Collision",
+            "PdxMeshAlphaAdditive",
+            "PdxMeshAlphaBlend",
+            "PdxMeshStandard",
+            "PdxMeshTextureAtlas",
+            "PdxMeshWater"
+        ]
+    },
+    "europa_universalis_4": {
+        "material": [
+            "Collision",
+            "PdxMeshAdvanced",
+            "PdxMeshAlphaBlend",
+            "PdxMeshAlphaBlendNoZWrite",
+            "PdxMeshColor",
+            "PdxMeshSnow",
+            "PdxMeshStandard",
+            "PdxMeshStandard_NoFoW_NoTI",
+            "PdxMeshTextureAtlas"
+        ]
+    },
+    "stellaris": {
+        "material": [
+            "Collision",
+            "AlphaBlendNoDepth",
+            "PdxMeshAdvanced",
+            "PdxMeshAlphaAdditive",
+            "PdxMeshAlphaAdditiveAnimateUV",
+            "PdxMeshAlphaBlend",
+            "PdxMeshAsteroid",
+            "PdxMeshAtmosphere",
+            "PdxMeshAtmosphereStar",
+            "PdxMeshCircleGradient",
+            "PdxMeshClouds",
+            "PdxMeshColor",
+            "PdxMeshColorAlphaAdditiveAnimateUV",
+            "PdxMeshExtraDimensionalShip",
+            "PdxMeshNavigationButton",
+            "PdxMeshPlanet",
+            "PdxMeshPlanetEmissive",
+            "PdxMeshPlanetRings",
+            "PdxMeshPortrait",
+            "PdxMeshPortraitClothes",
+            "PdxMeshPortraitHair",
+            "PdxMeshShieldFlipBook",
+            "PdxMeshShieldUVStrech",
+            "PdxMeshShip",
+            "PdxMeshShipColored",
+            "PdxMeshStandard",
+            "PdxMeshStar",
+            "PdxMeshTerra",
+            "PdxMeshTerraAlphaBlend",
+            "PdxMeshTerraAlphaTest"
+        ]
+    },
+    "hearts_of_iron_4": {
+        "material": [
+            "Collision",
+            "PdxMeshAdvanced",
+            "PdxMeshAdvancedAnim",
+            "PdxMeshAdvancedSnow",
+            "PdxMeshBorder",
+            "PdxMeshSnow",
+            "PdxMeshStandard"
+        ]
+    },
+    "imperator_rome": {
+        "material": [
+            "Collision",
+            "decal_world",
+            "lake",
+            "material_test",
+            "PdxMeshHair",
+            "PdxMeshStandard",
+            "portrait_attachment",
+            "portrait_attachment_alpha_blend",
+            "portrait_eye",
+            "portrait_hair",
+            "portrait_hair_backside",
+            "portrait_hair_opaque",
+            "portrait_skin",
+            "portrait_skin_face",
+            "standard",
+            "standard_alpha_blend",
+            "standard_alpha_to_coverage",
+            "standard_snow",
+            "standard_usercolor",
+            "tree",
+            "tree_alpha_to_coverage"
+        ]
+    },
+    "crusader_kings_3" :{
+        "material": [
+            "Collision",
+            "PdxMeshColor",
+            "PdxMeshStandard",
+            "PdxMeshTextureAtlas",
+            "decal_local",
+            "lake",
+            "material_test",
+            "portrait_attachment",
+            "portrait_attachment_alpha_to_coverage",
+            "portrait_attachment_pattern",
+            "portrait_attachment_pattern_alpha_to_coverage",
+            "portrait_eye",
+            "portrait_hair",
+            "portrait_hair_opaque",
+            "portrait_skin",
+            "snap_to_terrain",
+            "snap_to_terrain_alpha_to_coverage",
+            "snap_to_terrain_atlas",
+            "snap_to_terrain_atlas_usercolor",
+            "standard",
+            "standard_alpha_blend",
+            "standard_alpha_to_coverage",
+            "standard_atlas",
+            "standard_usercolor",
+            "standard_usercolor_coa",
+            "tree"
+        ]
+    }
+}
