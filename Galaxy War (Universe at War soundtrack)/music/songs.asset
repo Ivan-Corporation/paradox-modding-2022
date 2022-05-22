@@ -1,0 +1,158 @@
+music = {
+	name = "thebirthofastar"
+	file = "thebirthofastar.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "gravitationalconstant"
+	file = "gravitationalconstant.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "sigmatauri"
+	file = "sigmatauri.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "luminescence"
+	file = "luminescenceendcredits.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "spatiallullaby"
+	file = "spatiallullaby.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "genesis"
+	file = "genesis.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "distantnebula"
+	file = "distantnebula.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "insearchoflife"
+	file = "insearchoflife.ogg"
+	volume = 0.80
+}
+
+
+music = {
+	name = "journeythroughthegalaxy"
+	file = "journeythroughthegalaxy.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "fasterthanlight"
+	file = "fasterthanlight.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "thecelestialcity"
+	file = "thecelestialcity.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "infinitebeing"
+	file = "infinitebeing.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "totheendsofthegalaxy"
+	file = "totheendsofthegalaxy.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "alphacentauri"
+	file = "alphacentauri.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "pillarsofcreation"
+	file = "pillarsofcreation.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "deepspacetravels"
+	file = "deepspacetravels.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "ridingthesolarwind"
+	file = "ridingthesolarwind.ogg"
+	volume = 0.80
+}
+
+
+
+music = {
+	name = "anticipating"
+	file = "anticipating.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "damage-king"
+	file = "damage-king.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "doom-of-the-aliens"
+	file = "doom-of-the-aliens.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "haunt"
+	file = "haunt.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "mechanical-brain"
+	file = "mechanical-brain.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "modern-design"
+	file = "modern-design.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "prepare-for-oblivion"
+	file = "prepare-for-oblivion.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "slithering"
+	file = "slithering.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "strangers-attack"
+	file = "strangers-attack.ogg"
+	volume = 0.80
+}

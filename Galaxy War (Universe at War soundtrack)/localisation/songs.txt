@@ -1,0 +1,98 @@
+song = {
+	name = "thebirthofastar"
+}
+
+song = {
+	name = "sigmatauri"
+}
+
+song = {
+	name = "gravitationalconstant"
+}
+
+song = {
+	name = "luminescence"
+}
+
+song = {
+	name = "spatiallullaby"
+}
+
+song = {
+	name = "genesis"
+}
+
+song = {
+	name = "distantnebula"
+}
+
+song = {
+	name = "insearchoflife"
+}
+
+song = {
+	name = "journeythroughthegalaxy"
+}
+
+song = {
+	name = "fasterthanlight"
+}
+
+song = {
+	name = "thecelestialcity"
+}
+
+song = {
+	name = "infinitebeing"
+}
+
+song = {
+	name = "totheendsofthegalaxy"
+}
+
+song = {
+	name = "alphacentauri"
+}
+
+song = {
+	name = "pillarsofcreation"
+}
+
+song = {
+	name = "deepspacetravels"
+}
+
+song = {
+	name = "ridingthesolarwind"
+}
+
+# From here your music
+# ____________________
+
+song = {
+	name = "anticipating"
+}
+song = {
+	name = "damage-king"
+}
+song = {
+	name = "doom-of-the-aliens"
+}
+song = {
+	name = "haunt"
+}
+song = {
+	name = "mechanical-brain"
+}
+song = {
+	name = "modern-design"
+}
+song = {
+	name = "prepare-for-oblivion"
+}
+song = {
+	name = "slithering"
+}
+song = {
+	name = "strangers-attack"
+}
